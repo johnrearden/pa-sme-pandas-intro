@@ -1,0 +1,101 @@
+Date,SalesAgent,Category,Amount,Payment Type
+2025-05-04,Dana,Keyboard,1828.59,Cash
+2025-05-01,Alice,Laptop,2247.92,Mobile Pay
+2025-05-02,Eve,Printer,2223.36,Mobile Pay
+2025-05-04,Eve,Laptop,1960.7,Mobile Pay
+2025-04-30,Bob,Desktop,1622.98,Cash
+2025-05-02,Eve,Keyboard,256.14,Debit Card
+2025-05-02,Bob,Keyboard,445.99,Mobile Pay
+2025-05-04,Alice,Printer,2251.46,Credit Card
+2025-04-29,Dana,Networking,1535.75,Cash
+2025-04-30,Dana,Desktop,72.53,Mobile Pay
+2025-05-04,Dana,Monitor,298.61,Mobile Pay
+2025-04-30,Eve,Laptop,1675.58,Credit Card
+2025-04-30,Alice,Mouse,62.4,Debit Card
+2025-05-02,Eve,Laptop,443.98,Debit Card
+2025-05-01,Eve,Laptop,1394.4,Debit Card
+2025-04-30,Alice,Monitor,1745.14,Mobile Pay
+2025-05-03,Alice,Laptop,1647.31,Mobile Pay
+2025-05-02,Alice,Desktop,599.46,Mobile Pay
+2025-04-29,Alice,Desktop,1794.84,Cash
+2025-05-01,Dana,Keyboard,631.26,Credit Card
+2025-05-03,Chris,Printer,847.23,
+2025-05-03,Chris,Networking,1878.9,Credit Card
+2025-04-29,Alice,Mouse,1641.6,Credit Card
+2025-05-01,Chris,Laptop,2130.6,Debit Card
+2025-05-02,Chris,Laptop,1661.15,Cash
+2025-04-28,Alice,Monitor,1442.36,Mobile Pay
+2025-05-01,Chris,Printer,279.5,Debit Card
+2025-04-29,Eve,Desktop,950.9,Debit Card
+2025-05-03,Bob,Mouse,699.75,Mobile Pay
+2025-05-02,Bob,Keyboard,647.77,Credit Card
+2025-05-01,Alice,Desktop,2433.88,Debit Card
+2025-04-28,Dana,Printer,1013.09,Credit Card
+2025-04-28,Alice,Networking,2235.51,Cash
+2025-04-30,Dana,Keyboard,1596.29,Credit Card
+2025-04-30,Bob,Networking,1997.29,Cash
+2025-05-04,Alice,Monitor,1281.46,Credit Card
+2025-04-29,Eve,Monitor,1463.41,Debit Card
+2025-05-01,Chris,Laptop,-1256.67,Debit Card
+2025-05-01,Dana,Networking,528.35,Cash
+2025-05-04,Chris,Printer,1820.01,Mobile Pay
+2025-05-03,Chris,Mouse,737.89,Cash
+2025-05-03,Alice,Keyboard,109.57,Cash
+2025-05-04,Chris,Desktop,1631.41,Credit Card
+2025-05-03,Eve,Printer,483.92,Credit Card
+2025-04-30,Chris,Printer,2354.12,Cash
+2025-05-01,Alice,Monitor,2387.13,Debit Card
+2025-05-04,Eve,Networking,2291.42,Credit Card
+2025-05-01,Bob,Laptop,956.89,Mobile Pay
+2025-04-28,Chris,Laptop,87.87,Credit Card
+2025-04-30,Alice,Keyboard,2324.38,Credit Card
+2025-05-02,Bob,Monitor,1099.05,Mobile Pay
+2025-04-30,Bob,Printer,2418.3,Cash
+2025-05-04,Dana,Mouse,2410.87,Mobile Pay
+2025-05-02,Eve,Monitor,2139.87,Cash
+2025-04-28,Chris,Keyboard,771.4,Cash
+2025-05-04,Alice,Keyboard,993.49,Cash
+2025-04-29,Dana,Monitor,2135.28,Mobile Pay
+2025-05-01,Eve,Keyboard,826.46,Cash
+2025-04-28,Dana,Monitor,465.26,Debit Card
+2025-05-01,Eve,Desktop,1414.16,Mobile Pay
+2025-05-03,Eve,Monitor,2343.58,Debit Card
+2025-04-29,Chris,Networking,1755.27,Cash
+2025-04-29,Eve,Monitor,1446.65,Credit Card
+2025-04-28,Dana,Keyboard,288.08,Cash
+2025-04-29,Eve,Networking,1556.77,Debit Card
+2025-05-02,Chris,Keyboard,2475.63,Debit Card
+2025-04-29,Chris,Laptop,393.21,Mobile Pay
+2025-05-01,Dana,Laptop,1319.91,Credit Card
+2025-05-01,Bob,Networking,2199.56,Mobile Pay
+2025-05-04,Bob,Desktop,1864.88,Debit Card
+2025-05-01,Eve,Laptop,1757.69,Cash
+2025-05-04,Alice,Monitor,1771.09,Credit Card
+2025-05-01,Eve,Keyboard,930.75,Cash
+2025-05-02,Dana,Laptop,769.3,Cash
+2025-05-04,Dana,Laptop,2032.93,Credit Card
+2025-04-30,Dana,Desktop,2034.78,Mobile Pay
+2025-05-03,Dana,Networking,2174.33,Cash
+2025-04-28,Dana,Networking,2287.44,Debit Card
+2025-05-01,Chris,Printer,1302.79,Cash
+2025-04-29,Bob,Desktop,1278.71,Credit Card
+2025-05-01,Dana,Monitor,2005.82,Credit Card
+2025-04-29,Alice,Networking,1642.41,Credit Card
+2025-05-03,Alice,Keyboard,1769.82,Mobile Pay
+2025-05-03,Alice,Desktop,1999.69,Cash
+2025-05-03,Alice,Laptop,2230.51,Mobile Pay
+2025-04-29,Chris,Keyboard,878.09,Mobile Pay
+2025-05-01,Alice,Keyboard,970.18,Credit Card
+2025-05-03,Dana,Laptop,280.26,Credit Card
+2025-05-02,Eve,Desktop,1466.79,Mobile Pay
+2025-05-04,Alice,Laptop,138.06,Cash
+2025-04-29,Chris,Printer,1190.72,Debit Card
+2025-04-29,Chris,Keyboard,1379.48,Mobile Pay
+2025-05-01,Alice,Mouse,752.03,Cash
+2025-04-29,Eve,Mouse,1497.54,Credit Card
+2025-04-29,Alice,Monitor,124.73,Credit Card
+2025-05-03,Chris,Networking,141.5,Cash
+2025-05-01,Bob,Laptop,2065.37,Debit Card
+2025-05-03,Dana,Laptop,932.47,Credit Card
+2025-05-04,Chris,Monitor,361.3,Credit Card
+2025-05-04,Alice,Monitor,1329.5,Credit Card
